@@ -32,7 +32,8 @@ This project is a feature-rich text editor and code pin application built with [
 ## Project Demo
 
 The screenshot below showcases the editor in action:  
-![Project Screenshot](./path-to-image.png)
+![Project Screenshot]![image](https://github.com/user-attachments/assets/eddc19e2-b7d2-48a6-acc3-f75b9ed9f55a)
+
 
 ---
 
