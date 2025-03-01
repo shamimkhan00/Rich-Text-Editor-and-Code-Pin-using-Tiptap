@@ -5,7 +5,7 @@ import Styles from './Styles/Tiptap.module.css';
 import { Buttons } from './Buttons';
 import TextToSpeech from './TextToSpeech';
 import "highlight.js/styles/github.css";
-import { CodeButtons } from './codeButtons';
+import { CodeButtons } from './CodeButtons.jsx';
 import Codelines from './Codelines';
 
 //code editor
