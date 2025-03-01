@@ -1,7 +1,7 @@
 import parse from 'html-react-parser';
 import { useEffect, useState } from 'react';
 import Styles from './Styles/DisplayText.module.css'
-import { Like } from './like';
+import { Like } from './Like';
 import { MdRecordVoiceOver } from "react-icons/md";
 
 
